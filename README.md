@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-grass 3D
+<!--grass 3D-->
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
