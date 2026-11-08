@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 <!--grass 3D-->
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
+<!--badge-->
+![AssemblyScript](https://img.shields.io/badge/AssemblyScript-006600?style=for-the-badge
