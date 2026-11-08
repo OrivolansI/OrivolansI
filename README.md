@@ -17,24 +17,18 @@ Here are some ideas to get you started:
 <!--grass 3D-->
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
+<!--country-->
+
+country🌐
+
+From South Korea🇰🇷
+
 <!--age-->
 
 age👨‍🏫
 
+2015/Feb/6 born🎂
 
- ———    
- |6|
- ———
-
-
-—————
-|Feb|
-—————
-
-
-——————
-|2015|
-——————
 <!--badge-->
 
 Skills💪
