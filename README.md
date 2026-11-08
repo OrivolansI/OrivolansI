@@ -16,7 +16,16 @@ Here are some ideas to get you started:
 -->
 <!--grass 3D-->
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
+
+<!--age-->
+
+age👨‍🏫
+
+ ———    —————    ——————
+ |6|    |Feb|    |2015|
+ ———    —————    ——————
 <!--badge-->
+
 Skills💪
 
 ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=green)
